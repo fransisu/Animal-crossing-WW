@@ -1,0 +1,10 @@
+{
+  "name": "Animal Crossing Wild World",
+  "description": "OST di Animal Crossing Wild World for steam deck",
+  "author": "fransisu",
+  "version": "v1.0",
+  "manifest_version": 3,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
