@@ -1,0 +1,63 @@
+{
+  "name": "Animal Crossing Wild World",
+  "author": "TuoNome",
+  "version": "1.0",
+  "music": true,
+  "sounds": [
+    {
+      "name": "menu_music",
+      "loop": true,
+      "tracks": [
+        {
+          "volume": 0.4,
+          "fade_time": 3,
+          "track": "title_screen.mp3"
+        }
+      ]
+    },
+    {
+      "name": "deck_startup",
+      "loop": false,
+      "tracks": [
+        {
+          "volume": 0.6,
+          "fade_time": 2,
+          "track": "town_morning.mp3"
+        }
+      ]
+    },
+    {
+      "name": "achievement_toast",
+      "loop": false,
+      "tracks": [
+        {
+          "volume": 0.7,
+          "fade_time": 0,
+          "track": "achievement_jingle.mp3"
+        }
+      ]
+    },
+    {
+      "name": "download_complete",
+      "loop": false,
+      "tracks": [
+        {
+          "volume": 0.6,
+          "fade_time": 0,
+          "track": "nook_shop.mp3"
+        }
+      ]
+    },
+    {
+      "name": "game_boot",
+      "loop": false,
+      "tracks": [
+        {
+          "volume": 0.5,
+          "fade_time": 1,
+          "track": "town_afternoon.mp3"
+        }
+      ]
+    }
+  ]
+}
